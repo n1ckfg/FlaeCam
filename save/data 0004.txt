@@ -1,0 +1,24 @@
+Adobe After Effects 8.0 Keyframe Data
+
+	Units Per Second	24
+	Source Width	100
+	Source Height	100
+	Source Pixel Aspect Ratio	1
+	Comp Pixel Aspect Ratio	1
+
+Transform	Position
+	Frame	X pixels	Y pixels	Z pixels
+	0	360.0	202.0	0.0
+	27	360.0	202.0	0.0
+	128	360.0	150.0	711.0
+	151	359.25	243.7	711.0
+
+Transform	Orientation
+	Frame	X degrees	Y degrees	Z degrees
+	0	0	0	0.0
+	27	0	0	0.0
+	128	0	0	180.0
+	151	0	0	180.0
+
+
+End of Keyframe Data
